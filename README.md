@@ -1,2 +1,2 @@
 # RWD_FCC
-Learning how to do basic web development
+Learning basic web development
